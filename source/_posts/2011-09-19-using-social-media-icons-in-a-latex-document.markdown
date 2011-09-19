@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Social Media Icons in a LaTeX Document"
+title: "Using Social Media Icons in a LaTeX document"
 date: 2011-09-19 10:59
 comments: true
 categories: LaTeX
@@ -47,8 +47,8 @@ My result looks like this.
 
 That's really everything there is to it. You can do this with any image,
 LaTeX will scale it to any size you specify but naturally vector
-graphics will be the best option because you can scale them to any size
-you want to without loss of quality.
+graphics will be the best option because you can scale them
+without loss of quality.
 
 Here's what my document looks like when zoomed in very close to my github-line.
 
