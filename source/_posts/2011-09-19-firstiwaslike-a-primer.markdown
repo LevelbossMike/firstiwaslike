@@ -17,4 +17,4 @@ time you get it. And you're like „Oh Yeah! LOL!“. Like the kitten on the
 right.
  
 
-This blog is about my „Oh Yeah! LOL!“-Moments. Have fun!
+This blog is about my „Oh Yeah! LOL!“-moments. Have fun!
