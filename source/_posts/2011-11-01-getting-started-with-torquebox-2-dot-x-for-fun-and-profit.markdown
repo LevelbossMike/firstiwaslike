@@ -130,7 +130,7 @@ When running the application from EC2 you also have to bind it to
 
 Other major problems
 ----------------------
-I don't know if I am the only one who was not aware of the fact that though on MacOS Ruby's require statement is NOT case sensitive on Ubuntu it is. I tried to require the ruby-geocoder in my test-application and 
+I don't know if I am the only one who was not aware of the fact that though on MacOS Ruby's require statement is NOT case sensitive but on Ubuntu it is. I tried to require the ruby-geocoder in my test-application and 
 ```ruby
 require 'Geocoder'
 ```
